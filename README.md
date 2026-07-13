@@ -79,7 +79,7 @@ To run these notebooks locally on your machine, follow these simple steps:
 ---
 
 ## 👤 Author
-- **Your Name** - [Your GitHub Profile](https://github.com)
+- **Sujit Kumar** - [My GitHub Profile](https://github.com)
 - Mentored by: **CampusX**
 
 ---
